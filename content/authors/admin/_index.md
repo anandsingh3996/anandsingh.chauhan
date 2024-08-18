@@ -23,49 +23,42 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:anandsingh.acps@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/Anandsingh_3996
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/anandsingh3996/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/anandsingh3996/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: ttps://scholar.google.com/citations?user=mx1usPMAAAAJ&hl=en&authuser=1/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Generative Artificial Intelligence
+  - Networks Systems (Power & Transporation)
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Tech. in Electrical Engineering
+    institution: Indian Institute of Technology, Gandhinagar
+    date_start: 2018-07-24
+    date_end: 2020-08-24
     summary: |
-      GPA: 3.8/4.0
-
+      CPI: 9.43/10.0
+      Thesis on Peer-to-Peer Energy Trading: Hardware and Software Integration. Supervised by [Prof. Naran Pindoriya](https://naran.people.iitgn.ac.in/). Presented papers at 1 conferences, 1 under review, and filed 1 Patent. My Masters thesis has been recongnised as Grid-India Power Systems Award (1 of the fifteen recipients).
+    
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Nature Inspired Computing, Digital Control Systems
+      - Restructured Power Systems, Special Electrical Machines
+      - Advanced Power Electronics, Advanced Mathematics of Engineering
+  - area: B.E. in Electrical Engineering
+    institution: L.D. College of Engineering
+    date_start: 2014-08-23
+    date_end: 2018-06-28
     summary: |
-      GPA: 3.4/4.0
+      CPI: 9.05/10.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
