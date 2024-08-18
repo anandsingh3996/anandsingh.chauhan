@@ -29,13 +29,12 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: False
+    enable: true
     blox: "navbar"
-    fixed_to_top: False
+    fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
-      text: "Anandsingh Chauhan"
+    text: "Anandsingh Chauhan"
 
 # Site footer
 footer:
