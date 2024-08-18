@@ -7,7 +7,7 @@ first_name: Anandsingh
 last_name: Chauhan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -183,5 +183,4 @@ awards:
 
 ## About Me
 
-Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology.
-
+I am a Researcher at the TCS Research in the Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology.
