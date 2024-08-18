@@ -29,9 +29,9 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: true
+    enable: False
     blox: "navbar"
-    fixed_to_top: true
+    fixed_to_top: False
     show_search: true
     show_theme_chooser: true
     logo:
@@ -40,17 +40,12 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year}'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
-# Localization
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
 
 # Site features
 features:
