@@ -122,33 +122,75 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: Nasscom Artificial Intelligence Gamechanger Award
+    url: https://nasscom.in/ai/nasscomaiconfluence/
+    date: '2023-07-24'
+    awarder: National Association of Software and Service Companies (Nasscom)
     icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+
+
+  - title: Certificate of Merit, Adoption of Artifical Intelligence, Machine Learning and Robotic Solution
+    url: https://isuw.in/winners-innovation-awards-2024
+    date: '2024-03-15'
+    awarder: India Smart Grid Forum (ISGF)
+    icon: edx
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
+
+  - title: Third Winner of Learning to Run a Power Network(L2RPN) Challenge
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-09-27'
+    awarder: Delft University of Technology (TU Delft) and Réseau de Transport d'Électricité (RTE) - France
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+   
+
+
+  - title: Gold Award, Best Technology in Transmission
+    url: https://isuw.in/winners-innovation-awards-2023
+    date: '2023-02-27'
+    awarder: India Smart Grid Forum (ISGF)
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
+  - title: Platinum Award, Best Technology in Distribution
+    url: https://isuw.in/winners-innovation-awards-2023
+    date: '2023-02-27'
+    awarder: India Smart Grid Forum (ISGF)
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
+  - title: POSOCO Power Systems Award (PPSA)
+    url: https://posoco.in/en/download/list-of-ppsa-awardees-2021/?wpdmdl=37044
+    date: '2021-03-19'
+    awarder:  Controller of India Limited (formerly known as Power Systems Operations Corporation Limited - POSOCO)
+    icon: coursera
+    summary: |
+      This award has been issued in the master category for research work carried out in the power system during M.Tech at IITGN. The project titled "Peer to Peer Energy Trading Platform: Hardware and Software Integration" has been one of the top 15 recipients in the master category by Power System Operation Corporation Limited (POSOCO), and Foundation for Innovation and Technology Transfer (FITT) IITD.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology.
+
