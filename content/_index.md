@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
+date: 2022-10-24
 type: landing
 
 design:
@@ -35,31 +36,33 @@ sections:
       subtitle: ''
       text: |-
         I'm a researcher in the Data and Decision Sciences Group at Tata Consultancy Services Limited-Research, Mumbai. I loves to work in the area of RL/GenAI applications to real-world problems.
+
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
         Please reach out to collaborate 😃
     design:
       columns: '1'
-    - block: collection
-      content:
-        title: Recent Publications
-        text: ""
-        filters:
-          folders:
-            - publication
-          exclude_featured: false
-      design:
-        view: citation
   - block: collection
-    id: talks
+    id: papers
     content:
-      title: Recent & Upcoming Talks
+      title: Featured Publications
       filters:
         folders:
-          - event
+          - publication
+        featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   - block: collection
     id: talks
     content:
