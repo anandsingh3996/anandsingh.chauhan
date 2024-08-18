@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Data-Driven Control and Management of Power Networks
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Reinforcement Learning
+  - Topological Reconfigurations
+  - Power Systems
+  - Planning & Control
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+Power grids transport electricity across states, countries, and even continents. They are the backbone of global societies and economies, playing a pivotal economic and societal role by supplying reliable power to industry, business, and domestic consumers. Their importance is even more critical today as we transition toward a sustainable world within a carbon-free economy. Issues within the power grid can range from transient stability problems and localized blackouts to complete system or country-wide blackouts, which can cause significant economic and social disruptions. Grid operators are responsible for ensuring a secure supply of electricity at all times and designing systems to be both reliable and resilient. With the advent of renewable energy, electric mobility, and limitations on new grid infrastructure projects, the task of controlling existing grids is becoming increasingly difficult, forcing operators to do 'more with less.' We have developed RL-based solutions to address this important real-world problem by alleviating congestion in power networks through topological reconfigurations.
 <!--more-->
