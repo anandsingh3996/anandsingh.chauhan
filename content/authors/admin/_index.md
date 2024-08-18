@@ -130,8 +130,7 @@ awards:
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - 
 
 
   - title: Certificate of Merit, Adoption of Artifical Intelligence, Machine Learning and Robotic Solution
@@ -142,8 +141,7 @@ awards:
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - 
 
 
   - title: Third Winner of Learning to Run a Power Network(L2RPN) Challenge
@@ -153,10 +151,7 @@ awards:
     icon: edx
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-   
+      - Synthesize your own blockchain solutions  
 
 
   - title: Gold Award, Best Technology in Transmission
@@ -167,9 +162,7 @@ awards:
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-
+        
   - title: Platinum Award, Best Technology in Distribution
     url: https://isuw.in/winners-innovation-awards-2023
     date: '2023-02-27'
@@ -178,9 +171,7 @@ awards:
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-
+        
   - title: POSOCO Power Systems Award (PPSA)
     url: https://posoco.in/en/download/list-of-ppsa-awardees-2021/?wpdmdl=37044
     date: '2021-03-19'
