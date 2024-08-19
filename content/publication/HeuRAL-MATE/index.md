@@ -10,16 +10,16 @@ authors:
   - Dr. Mayank Baranwal
   - Ankush Ojha
 
-date: 'October 19–25, 2024'
+# date: 'October 19–25, 2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-19'
+# publishDate: '2024-10-19'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the European Conference on Artificial Intelligence*
