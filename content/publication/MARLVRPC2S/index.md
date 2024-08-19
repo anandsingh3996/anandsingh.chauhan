@@ -12,8 +12,6 @@ authors:
   - Hardik Meisheri
   - Harshad Khadilkar
   - Balaraman Ravindran
-  - Dr. Mayank Baranwal
-  - Ansuma Basumatary
 
 author_notes:
 - 'Equal contribution'
