@@ -10,7 +10,7 @@ date: "17-19 December 2020"
 doi: "10.1109/NPSC49263.2020.9331873"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "19/12/2020"
+publishDate: "19-12-2020"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
