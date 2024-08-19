@@ -8,7 +8,7 @@ date: "2023-07-07"
 doi: "https://patents.google.com/patent/US20240186789A1/en"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "024-06-06"
+publishDate: "2024-06-06"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -53,6 +53,3 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
