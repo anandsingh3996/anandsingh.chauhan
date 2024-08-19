@@ -14,7 +14,7 @@ authors:
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2024-10-19'
+# publishDate: '2024-08-15'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
