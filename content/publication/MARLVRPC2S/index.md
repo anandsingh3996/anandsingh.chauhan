@@ -22,7 +22,7 @@ author_notes:
 
 date: 'December 09, 2023'
 doi: 'https://doi.org/10.48550/arXiv.2311.16171'
-publishDate: '2023'
+publishDate: "2013-12-09"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
