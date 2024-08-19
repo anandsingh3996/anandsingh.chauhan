@@ -5,15 +5,16 @@ title: 'PowRL: A Reinforcement Learning Framework for Robust Management of Power
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Aritra Pal
   - admin
   - Dr. Mayank Baranwal
-  - Ansuma Basumatary
+  - Ankush Ojha
 
-date: 'February 20–27, 2024'
-doi: 'https://doi.org/10.1609/aaai.v37i12.26724'
+date: 'October 19–25, 2024'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-26'
+publishDate: '2024-10-19'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,13 +22,16 @@ publishDate: '2023-06-26'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the AAAI Conference on Artificial Intelligence*
+publication: In *Proceedings of the European Conference on Artificial Intelligence*
+publication_short: In *ECAI*2024
 
-abstract: Power grids, across the world, play an important societal and economical role by providing uninterrupted, reliable and transient-free power to several industries, businesses and household consumers. With the advent of renewable power resources and EVs resulting into uncertain generation and highly dynamic load demands, it has become ever so important to ensure robust operation of power networks through suitable management of transient stability issues and localize the events of blackouts. In the light of ever increasing stress on the modern grid infrastructure and the grid operators, this paper presents a reinforcement learning (RL) framework, PowRL, to mitigate the effects of unexpected network events, as well as reliably maintain electricity everywhere on the network at all times. The PowRL leverages a novel heuristic for overload management, along with the RL-guided decision making on optimal topology selection to ensure that the grid is operated safely and reliably (with no overloads). PowRL is benchmarked on a variety of competition datasets hosted by the L2RPN (Learning to Run a Power Network). Even with its reduced action space, PowRL tops the leaderboard in the L2RPN NeurIPS 2020 challenge (Robustness track) at an aggregate level, while also being the top performing agent in the L2RPN WCCI 2020 challenge. Moreover, detailed analysis depicts state-of-the-art performances by the PowRL agent in some of the test scenarios.
+abstract: In modern warehousing environments, efficient task allocation among multiple robots is crucial for optimizing productivity and meeting the ever-increasing demands of online order fulfillment. In this paper, we address the challenging problem of real-time multi-robot task allocation (MRTA) in a warehouse setting, where
+tasks appear dynamically with corresponding start and end locations. The objective is to minimize both the total travel distance of robots and the delay in task execution while considering practical charging/discharging constraints and collision-free navigation. To tackle this combinatorially hard problem, we propose a heuristic guided reinforcement learning (RL) agent, HeuRAL-MATE, which learns to prioritize prompt task execution while optimizing the assignment of tasks to robots. Our proposed approach outperforms standard practices like First-In-First-Out (FIFO), as well as a brute-force optimal approach in terms of efficiency and performance. The results on multiple synthetic datasets exhibit an average cost reduction of approximately 8.58% and 10.74% in total expenses when compared with brute-force optimal approach and FIFO, respectively.
 
 tags:
   - Reinforcement Learning
-  - Power Systems
+  - Warehouse Management
+  - Robotics
 
 # Display this page in the Featured widget?
 featured: false
