@@ -12,6 +12,11 @@ authors:
   - Dr. Harshad Khadilkar
   - Dr. Balaraman Ravindran
 
+author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
+- 'Equal contribution'
+
 
 date: 'Jan 04–07, 2024'
 doi: '10.1145/3632410'
