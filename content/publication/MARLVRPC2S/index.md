@@ -5,7 +5,6 @@ title: 'Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-
   - Omkar Shelke
   - Pranavi Pathakota
   - admin
@@ -20,7 +19,7 @@ author_notes:
 
 date: 'December 09, 2023'
 doi: 'https://doi.org/10.48550/arXiv.2311.16171'
-
+publishDate: "2023"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
