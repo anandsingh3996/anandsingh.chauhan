@@ -11,8 +11,8 @@ authors:
   - Ankush Ojha
 
 author_notes:
-  - "Equal contribution"
-  - "Equal contribution
+  - 'Equal contribution'
+  - 'Equal contribution'
   
 # date: '10-2024'
 doi: ''
