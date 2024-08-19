@@ -1,5 +1,5 @@
 ---
-title: 'PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks'
+title: 'A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,11 +12,12 @@ authors:
   - Dr. Harshad Khadilkar
   - Dr. Balaraman Ravindran
 
-date: 'February 20–27, 2024'
-doi: 'https://doi.org/10.1609/aaai.v37i12.26724'
+
+date: 'Jan 04–07, 2024'
+doi: '10.1145/3632410'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-26'
+publishDate: '2024-01-04'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,9 +28,12 @@ publication_types: ['paper-conference']
 publication: In *Proceedings of the 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD)*
 publication_short: In *CODS-COMAD 2024*
 
+
+
 tags:
+  - Grpah Neural Network
   - Reinforcement Learning
-  - Power Systems
+  - Supply Chain
 
 # Display this page in the Featured widget?
 featured: false
