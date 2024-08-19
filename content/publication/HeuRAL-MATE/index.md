@@ -10,7 +10,11 @@ authors:
   - Dr. Mayank Baranwal
   - Ankush Ojha
 
-# date: '2024'
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution
+  
+# date: '10-2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
