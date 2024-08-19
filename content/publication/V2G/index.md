@@ -10,7 +10,7 @@ date: "17-19 December 2020"
 doi: "10.1109/NPSC49263.2020.9331873"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "17-19 December 2020"
+publishDate: "19/12/2020"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -57,8 +57,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
