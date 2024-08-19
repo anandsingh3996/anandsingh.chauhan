@@ -19,7 +19,7 @@ publishDate: '2024-10-19'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the European Conference on Artificial Intelligence*
