@@ -10,7 +10,7 @@ authors:
   - Dr. Mayank Baranwal
   - Ankush Ojha
 
-# date: 'October 19–25, 2024'
+# date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
