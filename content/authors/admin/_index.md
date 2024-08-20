@@ -47,7 +47,7 @@ education:
     summary: |
       CPI: 9.43/10.0
     
-      Thesis on Peer-to-Peer Energy Trading: Hardware and Software Integration. Supervised by Prof. Naran Pindoriya. Presented papers at 1 conferences, 1 under review, and filed 1 Patent. My Masters thesis has been recongnised as Grid-India Power Systems Award (1 of the fifteen recipients).
+      'Thesis on Peer-to-Peer Energy Trading: Hardware and Software Integration. Supervised by Prof. Naran Pindoriya. Presented papers at 1 conferences, 1 under review, and filed 1 Patent. My Masters thesis has been recongnised as Grid-India Power Systems Award (1 of the fifteen recipients).'
     
   - area: B.E. in Electrical Engineering
     institution: L.D. College of Engineering
@@ -92,30 +92,6 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -126,7 +102,6 @@ awards:
     url: https://nasscom.in/ai/nasscomaiconfluence/
     date: '2023-07-24'
     awarder: National Association of Software and Service Companies (Nasscom)
-    icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
@@ -137,7 +112,6 @@ awards:
     url: https://isuw.in/winners-innovation-awards-2024
     date: '2024-03-15'
     awarder: India Smart Grid Forum (ISGF)
-    icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
@@ -148,7 +122,6 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-09-27'
     awarder: Delft University of Technology (TU Delft) and Réseau de Transport d'Électricité (RTE) - France
-    icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions  
@@ -158,7 +131,6 @@ awards:
     url: https://isuw.in/winners-innovation-awards-2023
     date: '2023-02-27'
     awarder: India Smart Grid Forum (ISGF)
-    icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
@@ -167,7 +139,6 @@ awards:
     url: https://isuw.in/winners-innovation-awards-2023
     date: '2023-02-27'
     awarder: India Smart Grid Forum (ISGF)
-    icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
@@ -176,11 +147,9 @@ awards:
     url: https://posoco.in/en/download/list-of-ppsa-awardees-2021/?wpdmdl=37044
     date: '2021-03-19'
     awarder:  Controller of India Limited (formerly known as Power Systems Operations Corporation Limited - POSOCO)
-    icon: coursera
     summary: |
       This award has been issued in the master category for research work carried out in the power system during M.Tech at IITGN. The project titled "Peer to Peer Energy Trading Platform: Hardware and Software Integration" has been one of the top 15 recipients in the master category by Power System Operation Corporation Limited (POSOCO), and Foundation for Innovation and Technology Transfer (FITT) IITD.
 ---
 
 ## About Me
-
 I am a Researcher at the TCS Research in the Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology.
