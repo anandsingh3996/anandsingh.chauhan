@@ -9,22 +9,22 @@ appearance:
   color: emerald
 
 # SEO
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
-  verification:
-    google: ''
-    baidu: ''
+# marketing:
+#   seo:
+#     site_type: Person
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+#     twitter: 'GetResearchDev'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#     plausible: ''
+#     fathom: ''
+#     pirsch: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Site header
 header:
@@ -38,18 +38,18 @@ header:
       text: "Anandsingh Chauhan"
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year}'
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
-# Site features
-features:
-  math:
-    enable: false
-  privacy_pack:
+# # Site features
+# features:
+#   math:
+#     enable: false
+#   privacy_pack:
     enable: false
