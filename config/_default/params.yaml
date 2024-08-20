@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  # color: emerald
 
 # SEO
 # marketing:
@@ -52,4 +52,4 @@ header:
 #   math:
 #     enable: false
 #   privacy_pack:
-    enable: false
+    # enable: false
