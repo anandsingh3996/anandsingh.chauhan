@@ -15,11 +15,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
   
-# date: '2024-10'
+# date: '2024-10-10'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2024-10'
+# publishDate: '2024-10-10'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,8 +27,7 @@ doi: ''
 publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the European Conference on Artificial Intelligence, October 2024*
-publication_short: In *ECAI 2024*
+publication: In *27th Proceedings of the European Conference on Artificial Intelligence, October 2024*
 
 abstract: 'In modern warehousing environments, efficient task allocation among multiple robots is crucial for optimizing productivity and meeting the ever-increasing demands of online order fulfillment. In this paper, we address the challenging problem of real-time multi-robot task allocation (MRTA) in a warehouse setting, where
 tasks appear dynamically with corresponding start and end locations. The objective is to minimize both the total travel distance of robots and the delay in task execution while considering practical charging/discharging constraints and collision-free navigation. To tackle this combinatorially hard problem, we propose a heuristic guided reinforcement learning (RL) agent, HeuRAL-MATE, which learns to prioritize prompt task execution while optimizing the assignment of tasks to robots. Our proposed approach outperforms standard practices like First-In-First-Out (FIFO), as well as a brute-force optimal approach in terms of efficiency and performance. The results on multiple synthetic datasets exhibit an average cost reduction of approximately 8.58% and 10.74% in total expenses when compared with brute-force optimal approach and FIFO, respectively.'
