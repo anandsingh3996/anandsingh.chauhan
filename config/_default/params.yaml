@@ -48,8 +48,8 @@ header:
 #       allow_commercial: false
 
 # # Site features
-# features:
-#   math:
-#     enable: false
-#   privacy_pack:
-    # enable: false
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
