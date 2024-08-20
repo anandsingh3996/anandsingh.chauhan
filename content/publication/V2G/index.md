@@ -6,11 +6,11 @@ authors:
   - admin
   - Dr. Naran Pindoriya
    
-date: "17-19 December 2020"
+date: "2020-12-18"
 doi: "10.1109/NPSC49263.2020.9331873"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "19-12-2020"
+publishDate: "2020-12-19"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
