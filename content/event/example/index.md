@@ -1,28 +1,26 @@
 ---
-title: Example Talk
+title: Data Driven Control and Management of Power Networks 
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
-
-location: Hugo Blox Builder HQ
+event: Learning and Control Colloquium Conference
+event_url: https://sites.google.com/iitb.ac.in/lcc2024/home
+location: Seminar Room 12, Victor Menezes Convention Center (VMCC)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: IIT Bombay
+  city: Mumbai
+  region: Maharashtra
+  postcode: '400076'
+  country: India
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Power grids globally play a crucial societal and economic role by providing uninterrupted, reliable, and transient-free power to industries, businesses, and households. The advent of renewable power resources and electric vehicles has introduced uncertain generation and highly dynamic load demands, making robust operation of power networks essential to manage transient stability issues and localize blackout events. In light of the increasing stress on modern grid infrastructure and operators, this talk will cover HybridAgent, a reinforcement learning (RL) framework designed to mitigate the effects of unexpected network events and reliably maintain electricity across the network. HybridAgent leverages a heuristic-guided RL framework for optimal topology selection, ensuring safe and reliable grid operation without overloads. It has been extensively tested in the Learning to Run a Power Network (L2RPN) 2023 Challenge hosted by Réseau de Transport d'Électricité (RTE) and Delft University of Technology (TU Delft). With its state-of-the-art AI-based framework, HybridAgent outperformed other existing approaches on multiple datasets featuring forced contingencies in the IEEE-118 network. Despite its reduced action space, HybridAgent topped the leaderboard in the L2RPN NeurIPS 2020 challenge (Robustness track) and was the top-performing agent in the L2RPN WCCI 2020 challenge. Additionally, HybridAgent achieved third position in the L2RPN 2023 challenge hosted by RTE and TU Delft. Detailed analysis demonstrates HybridAgent's state-of-the-art performance in several test scenarios.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-09-01T13:00:00Z'
+date_end: '2024-09-01T13:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-09-01T13:20:00Z'
 
 authors:
   - admin
@@ -30,21 +28,21 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 
+  focal_point:
 
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,15 +59,3 @@ slides: ""
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
