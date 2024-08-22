@@ -27,17 +27,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -50,6 +39,7 @@ sections:
   - block: collection
     id: news
     content:
+      title: Recent News and Talks
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Number of pages to display (0 = all pages)
