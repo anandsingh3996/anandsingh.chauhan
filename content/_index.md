@@ -60,6 +60,11 @@ sections:
   - block: collection
     id: news
     content:
+      title: Abstract Talk at Learning and Control Colloquium (LCC), SysCon Department, IIT Bombau
+      subtitle: ''
+      text: '[08-2024] Happy to share that I will present our work data-driven control and management of power networks at systems and control department during LCC 2024. I will share presentation and abstract soon.'
+
+    
       title: Nasscom AI Gamechanger Award in Research Category
       subtitle: ''
       text: '[07-2024] Happy to share that we have been awarded the NASSCOM AI Gamechangers Award 2024 in the AI Research category for our work on reinforcement learning-based control of power networks. It’s a great honor to be among the top ten research projects. '
@@ -86,24 +91,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build Your Academic Website Like This
-      text: |-
-        This site is powered by Hugo Blox Builder—the FREE, open-source website builder based on Hugo, trusted by over 250,000 academics.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Build anything effortlessly with blocks—no coding required!
-        
-        From landing pages and academic resumés to conferences and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
