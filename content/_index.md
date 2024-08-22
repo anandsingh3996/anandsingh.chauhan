@@ -23,9 +23,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a researcher in the Data and Decision Sciences Group at Tata Consultancy Services Limited-Research, Mumbai. My work focuses on applying reinforcement learning (RL) and generative AI (GenAI) to solve real-world challenges.
+    I am a Researcher in the Decision Sciences Research Area at TCS Research, driven by a deep passion for leveraging machine learning and operational research to tackle complex, real-world challenges. My expertise spans across diverse domains, with a strong focus on reinforcement learning and its practical applications. From optimizing power networks and supply chains to pioneering peer-to-peer energy trading and advancing electric vehicle technology, I aim to bridge the gap between theoretical research and impactful, real-world solutions.
+    I hold an M.Tech. in Electrical Engineering from the Indian Institute of Technology, Gandhinagar, where I conducted award-winning research on Peer-to-Peer Energy Trading. My thesis, supervised by Prof. Naran Pindoriya, earned recognition through the Grid-India Power Systems Award, placing me among the top fifteen recipients. I’ve also presented at conferences, with one paper under review and a patent filed.
+    At TCS Research, I collaborate with experts like Dr. Mayank Baranwal and Dr. Harshad Khadilkar to apply reinforcement learning to uncertain real-world problems, including power and supply-chain networks. My work also explores innovative approaches, such as using attention models for vehicle routing with time windows and integrating large language models with reinforcement learning for enhanced train scheduling.
 
-        By combining qualitative and quantitative methods, I explore the intricate relationship between science, technology, and the economy.
 
         I am always open to collaboration opportunities. Feel free to reach out! 😃
     design:
@@ -64,9 +65,9 @@ sections:
   - block: collection
     id: news
     content:
-      title: 07-2024
+      title: ''
       subtitle: ''
-      text: 'Happy to be awarded the nasscom ai Gamechangers Award 2024 in AI research category for our work on reinforcement learning based control of power networks. '
+      text: '[07-2024] Happy to be awarded the nasscom ai Gamechangers Award 2024 in AI research category for our work on reinforcement learning based control of power networks. '
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Number of pages to display (0 = all pages)
