@@ -1,6 +1,5 @@
 ---
-
-title: Data Driven Control and Management of Power Networks 
+title: 'Data Driven Control and Management of Power Networks'
 
 event: Learning and Control Colloquium Conference
 event_url: https://sites.google.com/iitb.ac.in/lcc2024/home
