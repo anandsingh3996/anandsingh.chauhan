@@ -1,7 +1,7 @@
 ---
 title: 'Data Driven Control and Management of Power Networks'
 
-event: Learning and Control Colloquium Conference
+event: 'Learning and Control Colloquium Conference'
 event_url: https://sites.google.com/iitb.ac.in/lcc2024/home
 location: Seminar Room 12, Victor Menezes Convention Center (VMCC)
 address:
