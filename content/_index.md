@@ -48,16 +48,6 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
-    content:
-      title: Recent News & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
     id: news
     content:
       # Page type to display. E.g. post, talk, publication...
