@@ -60,14 +60,6 @@ sections:
   - block: collection
     id: news
     content:
-      title: Abstract Talk at Learning and Control Colloquium (LCC), SysCon Department, IIT Bombau
-      subtitle: ''
-      text: '[08-2024] Happy to share that I will present our work data-driven control and management of power networks at systems and control department during LCC 2024. I will share presentation and abstract soon.'
-
-    
-      title: Nasscom AI Gamechanger Award in Research Category
-      subtitle: ''
-      text: '[07-2024] Happy to share that we have been awarded the NASSCOM AI Gamechangers Award 2024 in the AI Research category for our work on reinforcement learning-based control of power networks. It’s a great honor to be among the top ten research projects. '
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Number of pages to display (0 = all pages)
