@@ -28,6 +28,17 @@ sections:
       columns: '1'
   - block: collection
     content:
+      title: featured Publications
+      text: ""
+      filters:
+        folders:
+          - 
+        exclude_featured: false
+    design:
+      view: citation
+    
+  - block: collection
+    content:
       title: Recent Publications
       text: ""
       filters:
@@ -36,6 +47,19 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: collection
+    content:
+      title: Talks
+      text: ""
+      filters:
+        folders:
+          - event
+        exclude_featured: false
+    design:
+      view: citation
+
+  
   - block: collection
     id: news
     content:
