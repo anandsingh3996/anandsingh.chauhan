@@ -1,5 +1,4 @@
 ---
-
 title: Data Driven Control and Management of Power Networks
 
 event: Learning and Control Colloquium Conference
