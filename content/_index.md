@@ -60,9 +60,9 @@ sections:
   - block: collection
     id: news
     content:
-      title: ''
+      title: Nasscom AI Gamechanger Award in Research Category
       subtitle: ''
-      text: '[07-2024] Happy to be awarded the nasscom ai Gamechangers Award 2024 in AI research category for our work on reinforcement learning based control of power networks. '
+      text: '[07-2024] Happy to share that we have been awarded the NASSCOM AI Gamechangers Award 2024 in the AI Research category for our work on reinforcement learning-based control of power networks. It’s a great honor to be among the top ten research projects. '
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Number of pages to display (0 = all pages)
