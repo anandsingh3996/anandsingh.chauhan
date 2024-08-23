@@ -48,10 +48,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3632410.3632426'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/drive/folders/1yfWpzXXC3uKT3FRfoui72s2x2D0xHc5i'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
