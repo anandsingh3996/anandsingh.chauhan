@@ -39,7 +39,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1YzJMFVulxk12xu5qpY0gX9FqTNIeeSE_/view?usp=sharing'
 url_project: ''
 url_slides: ''
 
