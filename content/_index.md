@@ -4,10 +4,6 @@ title: ""
 date: 2024-08-18
 type: landing
 
-design:
-  # Default section spacing
-  spacing: "1rem"
-
 sections:
   - block: resume-biography-3
     content:
