@@ -61,7 +61,7 @@ sections:
 
     
   - block: collection
-    id: Papers
+    id: papers
     content:
       title: Recent Publications
       text: ""
