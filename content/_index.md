@@ -14,6 +14,9 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
+    design:
+      spacing:
+        padding: [0, 0, 0, 20]  # Remove padding at the top only
 
 
   - block: markdown
@@ -39,24 +42,6 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]  # Remove padding around this section
-
-    
-    
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-        exclude_featured: false
-
-    design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]  # Remove padding around this section
-
-
     
   - block: collection
     id: papers
