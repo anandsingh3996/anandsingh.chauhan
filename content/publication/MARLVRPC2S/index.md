@@ -48,7 +48,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2311.16171'
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1Ffk3PTRQ8fnR96KbYA_C_A_zSR44hShu/view?usp=sharing'
 url_project: ''
 url_slides: ''
 
