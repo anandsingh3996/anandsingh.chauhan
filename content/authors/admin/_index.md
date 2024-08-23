@@ -47,7 +47,7 @@ education:
     summary: |
       CPI: 9.43/10.0
     
-      'Thesis on Peer-to-Peer Energy Trading: Hardware and Software Integration. Supervised by Prof. Naran Pindoriya. Presented papers at 1 conferences, 1 under review, and filed 1 Patent. My Masters thesis has been recongnised as Grid-India Power Systems Award (1 of the fifteen recipients).'
+      Thesis on Peer-to-Peer Energy Trading: Hardware and Software Integration. Supervised by Prof. Naran Pindoriya. Presented papers at 1 conferences, 1 under review, and filed 1 Patent. My Masters thesis has been recongnised as Grid-India Power Systems Award (1 of the fifteen recipients).
     
   - area: B.E. in Electrical Engineering
     institution: L.D. College of Engineering
