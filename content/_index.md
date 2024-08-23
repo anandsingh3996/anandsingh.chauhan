@@ -23,8 +23,22 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a Researcher in the Decision Sciences Research Area at TCS Research, driven by a deep passion for leveraging machine learning and operational research to tackle complex, real-world challenges. My expertise spans across diverse domains, with a strong focus on reinforcement learning and its practical applications. From optimizing power networks and supply chains to pioneering peer-to-peer energy trading and advancing electric vehicle technology, I aim to bridge the gap between theoretical research and impactful, real-world solutions. I hold an M.Tech. in Electrical Engineering from the Indian Institute of Technology, Gandhinagar, where I conducted award-winning research on Peer-to-Peer Energy Trading. My thesis, supervised by Prof. Naran Pindoriya, earned recognition through the Grid-India Power Systems Award, placing me among the top fifteen recipients. I’ve also presented at conferences, with one paper under review and a patent filed. At TCS Research, I collaborate with experts like Dr. Mayank Baranwal and Dr. Harshad Khadilkar to apply reinforcement learning to uncertain real-world problems, including power and supply-chain networks. My work also explores innovative approaches, such as using attention models for vehicle routing with time windows and integrating large language models with reinforcement learning for enhanced train scheduling.'
-    design:
+        <div style="text-align: justify">
+        
+        My research is centered on advancing machine learning techniques, particularly reinforcement learning (RL) and optimization, to tackle complex challenges across various domains. The crux of my work lies in developing intelligent solutions that bridge the gap between theoretical advancements and their practical applications in critical infrastructure.
+        
+        1. **Networked Systems**: I focus on creating robust control and optimization strategies for networked systems, such as power grids, vehicle networks, and railway systems. By enhancing efficiency and reliability, this work aims to bolster the resilience and performance of essential infrastructure.
+        
+        2. **Supply Chain Management**:: I apply machine learning to optimize supply chain operations, directly addressing logistical challenges that impact efficiency and cost-effectiveness. This work is particularly relevant in the context of global supply chain disruptions, where AI-driven solutions can offer significant improvements.
+        
+        3. **Attention Models for Vehicle Routing**: I investigate the use of attention models to solve vehicle routing problems with time windows. This research contributes to advancements in transportation logistics, aiming to improve the efficiency of routing systems in dynamic environments.
+        
+        4. **Integration of Large Language Models and Reinforcement Learning**: I explore novel methodologies that combine large language models (LLMs) with RL to enhance scheduling and optimization across various networked systems, including innovative applications in train scheduling. This interdisciplinary approach seeks to push the boundaries of AI's capabilities in real-world scenarios.
+        
+        My research has led to presentations at prestigious conferences, including main track papers at AAAI and ECAI, as well as workshops at NeurIPS. I continue to contribute to the field with ongoing paper submissions and patent applications. My focus remains on advancing reinforcement learning and optimization techniques, particularly in their application to networked systems, where I aim to develop intelligent and efficient solutions for real-world challenges in power, transportation, and related fields.
+        
+        </div>
+            design:
       columns: '1'
     
   - block: collection
