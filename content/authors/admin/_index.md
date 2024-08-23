@@ -16,7 +16,7 @@ highlight_name: true
 role: Researcher, Data & Decisions Sciences 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tata Consultancy Services - Reserach
+  - name: Tata Consultancy Services - Research
     url: https://www.tcs.com/what-we-do/research/
 
 # Social network links
