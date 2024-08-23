@@ -14,6 +14,11 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]  # Remove padding around this section
+
+
   - block: markdown
     content:
       title: '📚 My Research'
@@ -34,6 +39,11 @@ sections:
         My research has led to presentations at prestigious conferences, including main track papers at AAAI and ECAI, as well as workshops at NeurIPS. I continue to contribute to the field with ongoing paper submissions and patent applications. My focus remains on advancing reinforcement learning and optimization techniques, particularly in their application to networked systems, where I aim to develop intelligent and efficient solutions for real-world challenges in power, transportation, and related fields.
         
         </div>
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]  # Remove padding around this section
+
+    
     
   - block: collection
     id: talks
@@ -45,6 +55,9 @@ sections:
     design:
       view: article-grid
       columns: 1
+      spacing:
+        padding: [0, 0, 0, 0]  # Remove padding around this section
+
 
     
   - block: collection
@@ -58,6 +71,9 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: [0, 0, 0, 0]  # Remove padding around this section
+
     
   - block: collection
     id: news
