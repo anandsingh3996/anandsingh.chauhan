@@ -23,7 +23,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        <div style="text-align: justify">
+        <div style="text-align: justify; font-size: 14px; width: 100%;">
         
         My research is centered on advancing machine learning techniques, particularly reinforcement learning (RL) and optimization, to tackle complex challenges across various domains. The crux of my work lies in developing intelligent solutions that bridge the gap between theoretical advancements and their practical applications in critical infrastructure.
         
