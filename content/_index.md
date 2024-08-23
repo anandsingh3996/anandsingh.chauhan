@@ -14,9 +14,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]  # Remove padding around this section
 
 
   - block: markdown
@@ -52,9 +49,10 @@ sections:
       filters:
         folders:
           - event
+        exclude_featured: false
+
     design:
-      view: article-grid
-      columns: 1
+      view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]  # Remove padding around this section
 
