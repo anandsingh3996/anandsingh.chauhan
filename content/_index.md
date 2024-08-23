@@ -16,9 +16,8 @@ sections:
         url: uploads/resume.pdf
     design:
       spacing:
-        padding: [0, 0, 0, 20]  # Remove padding at the top only
-
-
+        padding: [0, 0, 0, 0]  # Remove padding at the top only
+    
   - block: markdown
     content:
       title: '📚 My Research'
@@ -57,7 +56,6 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]  # Remove padding around this section
 
-    
   - block: collection
     id: news
     content:
