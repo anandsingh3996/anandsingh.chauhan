@@ -48,6 +48,7 @@ sections:
 
     
   - block: collection
+    id: Papers
     content:
       title: Recent Publications
       text: ""
@@ -57,7 +58,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  
+    
   - block: collection
     id: news
     content:
