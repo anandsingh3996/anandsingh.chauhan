@@ -38,8 +38,6 @@ sections:
         My research has led to presentations at prestigious conferences, including main track papers at AAAI and ECAI, as well as workshops at NeurIPS. I continue to contribute to the field with ongoing paper submissions and patent applications. My focus remains on advancing reinforcement learning and optimization techniques, particularly in their application to networked systems, where I aim to develop intelligent and efficient solutions for real-world challenges in power, transportation, and related fields.
         
         </div>
-            design:
-      columns: '1'
     
   - block: collection
     id: talks
