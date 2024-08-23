@@ -38,13 +38,13 @@ header:
       text: "Anandsingh Chauhan"
 
 # Site footer
-# footer:
-#   copyright:
-#     notice: '© {year}'
-#     license:
-#       enable: true
-#       allow_derivatives: false
-#       share_alike: true
+footer:
+  copyright:
+    notice: '© {Anandsingh Chauhan, 2024}'
+    # license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
 #       allow_commercial: false
 
 # # Site features
