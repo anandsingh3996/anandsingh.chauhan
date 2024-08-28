@@ -156,9 +156,8 @@ awards:
       This award has been issued in the master category for research work carried out in the power system during M.Tech at IITGN. The project titled "Peer to Peer Energy Trading Platform: Hardware and Software Integration" has been one of the top 15 recipients in the master category by Power System Operation Corporation Limited (POSOCO), and Foundation for Innovation and Technology Transfer (FITT) IITD.
 ---
 
-## About Me
 <div style="text-align: justify";justify; margin-top: 0; padding-top: 0;>
-As a Researcher in the Decision Sciences Research Area at TCS Research, I am driven by a profound passion for applying machine learning and operational research to solve complex real-world challenges. My expertise spans diverse domains, with a particular focus on reinforcement learning and its practical applications in networked systems.
+I am a Researcher in the Decision Sciences Research Area at TCS Research, I am driven by a profound passion for applying machine learning and operational research to solve complex real-world challenges. My expertise spans diverse domains, with a particular focus on reinforcement learning and its practical applications in networked systems.
 
 My academic journey includes an M.Tech. in Electrical Engineering from the Indian Institute of Technology, Gandhinagar, where I developed a groundbreaking P2P energy trading testrig under the supervision of Dr. Naran Pindoriya. This project, completed in June 2020, was the first blockchain-enabled testbed in India. My work earned prestigious recognitions, including the M.Tech. Grid-India Power Systems Award, placing me among the top fifteen recipients in India, and the Platinum award from the India Smart Grid Forum (ISGF) in 2023.
 
