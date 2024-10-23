@@ -11,7 +11,7 @@ authors:
   - Dr. Mayank Baranwal
   - Ankush Ojha
   
-date: '2024-08-10'
+date: '2024-10-19'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ebooks.iospress.nl/doi/10.3233/FAIA240705'
 url_poster: ''
 url_project: ''
 url_slides: ''
