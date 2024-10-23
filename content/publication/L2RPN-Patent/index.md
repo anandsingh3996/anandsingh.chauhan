@@ -5,7 +5,6 @@ authors:
   - Dr. Mayank Baranwal
     
 date: "2023-07-07"
-url: "https://patents.google.com/patent/US20240186789A1/en"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-06"
