@@ -5,7 +5,6 @@ authors:
   - Dr. Mayank Baranwal
     
 date: "2022-12-02"
-doi: "202221069773"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-07"
