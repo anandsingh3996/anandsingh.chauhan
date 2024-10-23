@@ -1,4 +1,3 @@
-
 ---
 title: 'An Experimental Evaluation of a Blockchain-based Peer-to-Peer Energy Trading Framework'
 
