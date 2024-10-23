@@ -15,7 +15,7 @@ date: '2024-10-19'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-08-10'
+publishDate: '2024-10-19'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -42,7 +42,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://ebooks.iospress.nl/doi/10.3233/FAIA240705'
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/12N9EYDJp3_RzSB7y0YlgzZueGYf4Tklb/view?usp=sharing'
 url_project: ''
 url_slides: ''
 
