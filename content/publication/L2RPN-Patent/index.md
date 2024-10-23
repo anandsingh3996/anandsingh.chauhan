@@ -5,7 +5,7 @@ authors:
   - Dr. Mayank Baranwal
     
 date: "2023-07-07"
-doi: "https://patents.google.com/patent/US20240186789A1/en"
+url: "https://patents.google.com/patent/US20240186789A1/en"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-06"
@@ -27,11 +27,8 @@ tags:
   
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://patentimages.storage.googleapis.com/d7/9d/88/baae55356ee66b/US20240186789A1.pdf
-url_video: ''
+ links:
+   - url: "https://patents.google.com/patent/US20240186789A1/en"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
