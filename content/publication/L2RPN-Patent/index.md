@@ -1,5 +1,6 @@
 ---
 title: "Reinforcement learning and heuristic based real time power grid management"
+
 authors:
   - admin
   - Dr. Mayank Baranwal
