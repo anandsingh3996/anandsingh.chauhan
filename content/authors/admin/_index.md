@@ -13,18 +13,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher, Data & Decisions Sciences 
+role: Researcher, Data & Decisions Sciences
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tata Consultancy Services - Research
+  - name: Tata Consultancy Services - Research, Mumbai
     url: https://www.tcs.com/what-we-do/research/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:anandsingh.acps@gmail.com'
-    label: E-mail Me
+    label: Email Me
   - icon: brands/x
     url: https://x.com/Anandsingh_3996
   - icon: brands/github
@@ -32,13 +32,16 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/anandsingh3996/
   - icon: academicons/google-scholar
-    url: ttps://scholar.google.com/citations?user=mx1usPMAAAAJ&hl=en&authuser=1/
+    url: https://scholar.google.com/citations?user=mx1usPMAAAAJ&hl=en&authuser=1/
 
+# Interests
 interests:
   - Reinforcement Learning
   - Generative Artificial Intelligence
-  - Networks Systems (Power & Transporation)
+  - Networked Systems (Power & Transportation)
+  - Deep Learning
 
+# Education
 education:
   - area: M.Tech. in Electrical Engineering
     institution: Indian Institute of Technology, Gandhinagar
@@ -46,9 +49,17 @@ education:
     date_end: 2020-08-24
     summary: |
       CPI: 9.43/10.0
-    
-      Thesis on Peer-to-Peer Energy Trading: Hardware and Software Integration. Supervised by Prof. Naran Pindoriya. Presented papers at 1 conferences, 1 under review, and filed 1 Patent. My Masters thesis has been recongnised as Grid-India Power Systems Award (1 of the fifteen recipients).
-    
+
+      During my time as part of a Department of Science and Technology (DST-India) project, titled *Development of a Prosumer Driven Integrated Smart Grid*, I helped develop a proof of concept (PoC) and test rig at IIT Gandhinagar. This work demonstrated real-world applications of demand-side energy management programs, including Peer-to-Peer (P2P) energy sharing, and was showcased in a pilot project with an electricity distribution company.
+
+      Our team also developed SMART AGENT, a universal IoT-based Smart Energy Management Device, allowing consumers to participate in a variety of demand-side management programs such as P2P energy trading and Demand Response (DR). The Smart Agent optimizes energy usage for flexible assets, enhancing energy management strategies.
+
+      Our technological innovation, SMART AGENT, earned the *India Smart Grid Forum (ISGF) Innovation Awards 2023 – Platinum Award* in the 'Smart Technology – Electricity Distribution' category.
+
+      In addition, I was awarded the *POSOCO Power System Awards (PPSA-2021)* for my Master’s thesis.
+
+      My Master’s work resulted in two publications and one patent filing.
+
   - area: B.E. in Electrical Engineering
     institution: L.D. College of Engineering
     date_start: 2014-08-23
