@@ -106,13 +106,12 @@ work:
   - position: Adjunct Faculty, Bachelor of Data Science
     company_name: S.P. Jain School of Global Management
     company_url: 'https://www.spjain.org/bachelor-of-data-science'
-    company_logo: ''
     date_start: 2024-01-27
     summary: |
       <p align="justify">
-      Teaching responsibilities include courses for first-year undergraduate students:
-      - Introduction to Programming
-      - Introduction to Data Science
+        I currently serve as an Adjunct Faculty, where I am responsible for teaching courses to first-year undergraduate students, including      
+        - Introduction to Programming
+        - Introduction to Data Science
       </p>
 
 
