@@ -1,3 +1,4 @@
+---
 # Display name
 title: Anandsingh Chauhan
 
@@ -12,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher, Data & Decision Sciences
+role: Researcher, Data & Decisions Sciences
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -67,14 +68,13 @@ education:
       My Master’s work resulted in two publications and one patent filing.
       </p>
 
+
   - area: B.E. in Electrical Engineering
     institution: L.D. College of Engineering
     date_start: 2014-08-23
     date_end: 2018-06-28
     summary: |
-      <p align="justify">
       CPI: 9.05/10.0
-      </p>
       
 work:
   - position: Researcher, Data and Decision Sciences Research Area
@@ -118,31 +118,8 @@ work:
 
 # Awards.
 #   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: POSOCO Power Systems Award (PPSA)
-    url: https://posoco.in/en/download/list-of-ppsa-awardees-2021/?wpdmdl=37044
-    date: '2021-03-19'
-    awarder:  Controller of India Limited (formerly known as Power Systems Operations Corporation Limited - POSOCO)
-    summary: |
-      <p align="justify">
-      This award has been issued in the master's category for research work carried out in the power system during M.Tech at IITGN. The project titled "Peer-to-Peer Energy Trading Platform: Hardware and Software Integration" has been one of the top 15 recipients in the master's category by Power System Operation Corporation Limited (POSOCO), and Foundation for Innovation and Technology Transfer (FITT) IITD.
-      </p>
----
-
-<div style="text-align: justify";justify; margin-top: 0; padding-top: 0;>
-I am a Researcher in the Decision Sciences Research Area at TCS Research, driven by a profound passion for applying machine learning and operational research to solve complex real-world challenges. My expertise spans diverse domains, with a particular focus on reinforcement learning and its practical applications in networked systems.
-
-My academic journey includes an M.Tech. in Electrical Engineering from the Indian Institute of Technology, Gandhinagar, where I developed a groundbreaking P2P energy trading testrig under the supervision of Dr. Naran Pindoriya. This project, completed in June 2020, was the first blockchain-enabled testbed in India. My work earned prestigious recognitions, including the M.Tech. Grid-India Power Systems Award, placing me among the top fifteen recipients in India, and the Platinum award from the India Smart Grid Forum (ISGF) in 2023.
-
-At TCS Research, I collaborate with experts like Dr. Mayank Baranwal and Dr. Harshad Khadilkar to apply reinforcement learning to uncertain real-world problems. My work aims to bridge the gap between theoretical research and impactful, real-world solutions in areas such as networked systems, including power grids, transportation networks, and supply chains.
-</div>
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+#   Only title, awarder, and date are required.
+#   Begin multi-line summary with YAML's | or |2- multi-line prefix and indent 2 spaces below.
 awards:
   - title: Nasscom Artificial Intelligence Gamechanger Award
     url: https://nasscom.in/ai/nasscomaiconfluence/
@@ -203,3 +180,4 @@ My academic journey includes an M.Tech. in Electrical Engineering from the India
 
 At TCS Research, I collaborate with experts like Dr. Mayank Baranwal and Dr. Harshad Khadilkar to apply reinforcement learning to uncertain real-world problems. My work aims to bridge the gap between theoretical research and impactful, real-world solutions in areas such as networked systems, including power grids, transportation networks, and supply chains.
 </div>
+
