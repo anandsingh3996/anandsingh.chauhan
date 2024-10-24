@@ -120,45 +120,47 @@ work:
 #   Only title, awarder, and date are required.
 #   Begin multi-line summary with YAML's | or |2- multi-line prefix and indent 2 spaces below.
 awards:
-  - title: NASSCOM AI Gamechangers Award
-    url: https://nasscom.in/ai/nasscomaiconfluence/
-    date: '2023-07-24'
-    awarder: National Association of Software and Service Companies (Nasscom)
-      - We were honored to receive the NASSCOM AI Gamechangers Award 2024 in the AI Research category for our work on reinforcement learning-based control of power networks. Co-authored with Ansuma Basumatary and Mayank Baranwal, this project was also featured in the main track at AAAI last year. Being recognized among the top ten research projects is a tremendous honor.
+- title: NASSCOM AI Gamechangers Award
+  url: https://nasscom.in/ai/nasscomaiconfluence/
+  date: '2023-07-24'
+  awarder: National Association of Software and Service Companies (Nasscom)
+  summary: |
+    - We were honored to receive the NASSCOM AI Gamechangers Award 2024 in the AI Research category for our work on reinforcement learning-based control of power networks. Co-authored with Ansuma Basumatary and Mayank Baranwal, this project was also featured in the main track at AAAI last year. Being recognized among the top ten research projects is a tremendous honor.
 
-  - title: Certificate of Merit, Adoption of Artifical Intelligence, Machine Learning and Robotic Solution
-    url: https://isuw.in/winners-innovation-awards-2024
-    date: '2024-03-15'
-    awarder: India Smart Grid Forum (ISGF)
-      - Happy to share that our work on data-driven power network control and management received the Certificate of Merit for disruptive AI adoption from ISGF. This research focuses on learning-based methodologies for dispatchable generators, alongside a reinforcement learning-driven topological reconfiguration agent designed to mitigate congestion caused by renewable energy uncertainty and adversarial attacks on the power grid.
+- title: Certificate of Merit, Adoption of Artificial Intelligence, Machine Learning and Robotic Solution
+  url: https://isuw.in/winners-innovation-awards-2024
+  date: '2024-03-15'
+  awarder: India Smart Grid Forum (ISGF)
+  summary: |
+    - I am pleased to share that our work on data-driven power network control and management received the Certificate of Merit for disruptive AI adoption from ISGF. This research focuses on learning-based methodologies for dispatchable generators, alongside a reinforcement learning-driven topological reconfiguration agent designed to mitigate congestion caused by renewable energy uncertainty and adversarial attacks on the power grid.
 
-  - title: Third Winner of Learning to Run a Power Network(L2RPN) Challenge
-    url: 
-    date: '2023-09-27'
-    awarder: Delft University of Technology (TU Delft) and Réseau de Transport d'Électricité (RTE) - France
-    summary: |
-      - Happy to announce that our power network research, led by me under the mentorship of Dr. Mayank Baranwal, secured third place in the prestigious L2RPN Challenge 2023. Hosted by RTE-France and TU Delft, this competition focused on the robust management of power networks, addressing challenges like renewable energy variability and adversarial attacks. Our solution ranked among the top three out of 90 international teams, showcasing innovative strategies for network resilience and control.
+- title: Third Winner of Learning to Run a Power Network (L2RPN) Challenge
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date: '2023-09-27'
+  awarder: Delft University of Technology (TU Delft) and Réseau de Transport d'Électricité (RTE) - France
+  summary: |
+    - I am happy to announce that our power network research, led by me under the mentorship of Dr. Mayank Baranwal, secured third place in the prestigious L2RPN Challenge 2023. Hosted by RTE-France and TU Delft, this competition focused on the robust management of power networks, addressing challenges like renewable energy variability and adversarial attacks. Our solution ranked among the top three out of 90 international teams, showcasing innovative strategies for network resilience and control.
 
-  - title: Gold Award, Best Technology in Transmission
-    url: https://isuw.in/winners-innovation-awards-2023
-    date: '2023-02-27'
-    awarder: India Smart Grid Forum (ISGF)
-    summary: |
-      - With the growing uncertainty from renewable energy integration and the rise in adversarial attacks due to increased digitization, robust power network management is critical. This Gold Award was given for our work on reinforcement learning-based topological reconfiguration to manage power networks under such conditions. Our solution, published at AAAI 2023, significantly reduced blackouts compared to existing baselines and led the leaderboard in the NeurIPS L2RPN 2020 challenge.
-      
-  - title: Platinum Award, Best Technology in Distribution
-    url: https://isuw.in/winners-innovation-awards-2023
-    date: '2023-02-27'
-    awarder: India Smart Grid Forum (ISGF)
-    summary: |
-      - We developed SMART AGENT, a universal IoT-based smart energy management device that enables electricity consumers to participate in a wide range of demand-side management programs, including Peer-to-Peer (P2P) energy trading and Demand Response (DR). The Smart Agent optimizes energy usage across all flexible assets, making it highly effective for managing energy demand. This award recognizes the cost-effective solution provided by the Smart Agent, empowering residential and commercial consumers to actively participate in DR events and energy trading initiatives.
+- title: Gold Award, Best Technology in Transmission
+  url: https://isuw.in/winners-innovation-awards-2023
+  date: '2023-02-27'
+  awarder: India Smart Grid Forum (ISGF)
+  summary: |
+    - With the growing uncertainty from renewable energy integration and the rise in adversarial attacks due to increased digitization, robust power network management is critical. This Gold Award was given for our work on reinforcement learning-based topological reconfiguration to manage power networks under such conditions. Our solution, published at AAAI 2023, significantly reduced blackouts compared to existing baselines and topped the leaderboard in the NeurIPS L2RPN 2020 challenge.
 
-  - title: Grid-India (formerly POSOCO) Power Systems Award 
-    url: https://posoco.in/en/download/list-of-ppsa-awardees-2021/?wpdmdl=37044
-    date: '2021-03-19'
-    awarder:  Grid Controller of India Limited (formerly known as Power Systems Operations Corporation Limited - POSOCO)
-    summary: |
-      - This award recognizes outstanding research conducted in the power systems field during my M.Tech at IIT Gandhinagar. My project, titled "Peer-to-Peer Energy Trading Platform: Hardware and Software Integration," was selected as one of the top 15 recipients in the master's category by Grid-India (formerly POSOCO) and the Foundation for Innovation and Technology Transfer (FITT) at IIT Delhi.
+- title: Platinum Award, Best Technology in Distribution
+  url: https://isuw.in/winners-innovation-awards-2023
+  date: '2023-02-27'
+  awarder: India Smart Grid Forum (ISGF)
+  summary: |
+    - We developed SMART AGENT, a universal IoT-based smart energy management device that enables electricity consumers to participate in a wide range of demand-side management programs, including Peer-to-Peer (P2P) energy trading and Demand Response (DR). The Smart Agent optimizes energy usage across all flexible assets, making it highly effective for managing energy demand. This award recognizes the cost-effective solution provided by the Smart Agent, empowering residential and commercial consumers to actively participate in DR events and energy trading initiatives.
+
+- title: Grid-India (formerly POSOCO) Power Systems Award 
+  url: https://posoco.in/en/download/list-of-ppsa-awardees-2021/?wpdmdl=37044
+  date: '2021-03-19'
+  awarder: Grid Controller of India Limited (formerly known as Power Systems Operations Corporation Limited - POSOCO)
+  summary: |
+    - This award recognizes outstanding research conducted in the power systems field during my M.Tech at IIT Gandhinagar. My project, titled "Peer-to-Peer Energy Trading Platform: Hardware and Software Integration," was selected as one of the top 15 recipients in the master's category by Grid-India (formerly POSOCO) and the Foundation for Innovation and Technology Transfer (FITT) at IIT Delhi.
 ---
 
 <div style="text-align: justify";justify; margin-top: 0; padding-top: 0;>
