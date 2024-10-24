@@ -1,5 +1,11 @@
 ---
 title: Real-Time Multi Robot Task Allocation in Dynamic Warehouse Environment 
+date: "2024-10-18T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2024-10-18T00:00:00Z"
+
 tags:
   - Reinforcement Learning
   - Warehouse Management
