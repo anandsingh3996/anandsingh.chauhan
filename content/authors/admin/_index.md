@@ -164,10 +164,12 @@ awards:
 ---
 
 <div style="text-align: justify";justify; margin-top: 0; padding-top: 0;>
-I am a Researcher in the Decision Sciences Research Area at TCS Research, I am driven by a profound passion for applying machine learning and operational research to solve complex real-world challenges. My expertise spans diverse domains, with a particular focus on reinforcement learning and its practical applications in networked systems.
 
-My academic journey includes an M.Tech. in Electrical Engineering from the Indian Institute of Technology, Gandhinagar, where I developed a groundbreaking P2P energy trading testrig under the supervision of Dr. Naran Pindoriya. This project, completed in June 2020, was the first blockchain-enabled testbed in India. My work earned prestigious recognitions, including the M.Tech. Grid-India Power Systems Award, placing me among the top fifteen recipients in India, and the Platinum award from the India Smart Grid Forum (ISGF) in 2023.
+I am a Researcher in the Decision Sciences Research Area at TCS Research, driven by a deep passion for leveraging machine learning and operational research to address complex, real-world challenges. My core expertise lies in reinforcement learning and machine learning, with a focus on its practical applications in networked systems.
 
-At TCS Research, I collaborate with experts like Dr. Mayank Baranwal and Dr. Harshad Khadilkar to apply reinforcement learning to uncertain real-world problems. My work aims to bridge the gap between theoretical research and impactful, real-world solutions in areas such as networked systems, including power grids, transportation networks, and supply chains.
+My academic journey includes an M.Tech. in Electrical Engineering from IIT Gandhinagar, where I contributed to the Department of Science and Technology (DST India) Project on the "Development of a Prosumer Driven Integrated Smart Grid." During my time at IITGN, I played a key role in developing India's first peer-to-peer energy trading test rig, a blockchain-enabled testbed (April 2020), in collaboration with IIMA, BESS Yamuna, and Rajdhani Power. This pioneering project, completed in June 2020 under the supervision of Dr. Naran Pindoriya, led to two publications and one patent filing. My contributions were recognized with prestigious awards, including the M.Tech. Grid-India Power Systems Award and the Platinum award from the India Smart Grid Forum (ISGF) in 2023.
+
+At TCS Research, I work closely with Dr. Mayank Baranwal and Dr. Harshad Khadilkar to explore the application of reinforcement learning to complex, uncertain environments. My research focuses on designing RL pipelines to tackle challenges in networked environments, such as power grids, transportation systems, and supply chains, with an emphasis on planning under uncertainty and adversarial conditions. Through this work, I aim to translate cutting-edge theoretical insights into impactful, real-world solutions.
+
 </div>
 
