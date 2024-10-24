@@ -144,16 +144,15 @@ awards:
     date: '2023-02-27'
     awarder: India Smart Grid Forum (ISGF)
     summary: |
-      - With the growing uncertainty from renewable energy integration and the rise in adversarial attacks due to increased digitization, robust power network management is critical. This Gold Award was given for our work on reinforcement learning-based topological reconfiguration to manage power networks under such conditions. Our solution, published at AAAI 2023, significantly reduced blackouts compared to existing baselines and led the leaderboard in the NeurIPS L2RPN 2020 challenge
+      - With the growing uncertainty from renewable energy integration and the rise in adversarial attacks due to increased digitization, robust power network management is critical. This Gold Award was given for our work on reinforcement learning-based topological reconfiguration to manage power networks under such conditions. Our solution, published at AAAI 2023, significantly reduced blackouts compared to existing baselines and led the leaderboard in the NeurIPS L2RPN 2020 challenge.
       
   - title: Platinum Award, Best Technology in Distribution
     url: https://isuw.in/winners-innovation-awards-2023
     date: '2023-02-27'
     awarder: India Smart Grid Forum (ISGF)
     summary: |
-      - We developed SMART AGENT, a universal IoT-based smart energy management device that enables electricity consumers to participate in a wide range of demand-side management programs, including Peer-to-Peer (P2P) energy trading and Demand Response (DR). The Smart Agent optimizes energy usage across all flexible assets, making it highly effective for managing energy demand. This award recognizes the cost-effective solution provided by the Smart Agent, empowering residential and commercial consumers to actively participate in DR events and energy trading initiatives
+      - We developed SMART AGENT, a universal IoT-based smart energy management device that enables electricity consumers to participate in a wide range of demand-side management programs, including Peer-to-Peer (P2P) energy trading and Demand Response (DR). The Smart Agent optimizes energy usage across all flexible assets, making it highly effective for managing energy demand. This award recognizes the cost-effective solution provided by the Smart Agent, empowering residential and commercial consumers to actively participate in DR events and energy trading initiatives.
 
-        
   - title: Grid-India (formerly POSOCO) Power Systems Award 
     url: https://posoco.in/en/download/list-of-ppsa-awardees-2021/?wpdmdl=37044
     date: '2021-03-19'
