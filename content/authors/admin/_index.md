@@ -86,20 +86,20 @@ work:
     summary: |
       <p align="justify">
       Responsibilities and key contributions include:
-      - Leading research initiatives under the guidance of Dr. Mayank Baranwal in the Data and Decision Sciences research wing.
+      - Leading research projects in the Data and Decision Sciences research wing under the mentorship of Dr. Mayank Baranwal and Dr. Harshad Khadilkar.
         
-      - Spearheading the application of reinforcement learning (RL) to complex real-world problems in planning under uncertainty, with a focus on:
-        
-        * Data-driven power control and management systems.
-        * Optimization of supply chain networks.
-        * Advanced railway scheduling solutions using large language models (LLMs) for reasoning.
-        * Mixed-Fleet Vehicle Routing Problem with Time Windows (CVRPTW) using attention mechanisms.
+      - Focusing on real-world applications of reinforcement learning (RL) to address complex challenges in planning under uncertainty, with key areas of expertise including:
+
+        - Data-driven power control and management systems.
+        - Supply chain network optimization.
+        - Advanced railway scheduling, leveraging large language models (LLMs) for enhanced decision-making.
+        - Mixed-Fleet Vehicle Routing Problem with Time Windows (CVRPTW), utilizing attention mechanisms for improved logistics.
+        - Multi-robot task allocation for dynamic and efficient resource management.
+
     
-      - Pioneering work on mixed-fleet routing, combining traditional and electric vehicles for optimized logistics.
-        
-      - Exploring innovative applications of attention models to solve vehicle routing with time windows (VRPTW).
-        
-      - Investigating the synergy between large language models (LLMs) and reinforcement learning (RL) to improve RL agent reward mechanisms, particularly in the context of effective train scheduling and network management.
+      - Currently working on the Mixed-Fleet Vehicle Routing Problem with Time Windows (VRPTW), integrating traditional and electric vehicles to optimize logistics in response to the increasing adoption of EVs by fleet operators. Additionally, exploring innovative applications of attention models to enhance solutions for vehicle routing with time windows.
+                
+      - Investigating the integration of large language models (LLMs) with reinforcement learning (RL) to enhance RL agent reward mechanisms, particularly for optimizing train scheduling. This approach reduces excessive computational complexity and supports control room operators in making more efficient decisions.
         
       - Contributing to the development of robust and adaptive algorithms for networked systems, enhancing efficiency and reliability in critical infrastructure.
       </p>
@@ -128,7 +128,6 @@ awards:
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
-      - 
 
 
   - title: Certificate of Merit, Adoption of Artifical Intelligence, Machine Learning and Robotic Solution
