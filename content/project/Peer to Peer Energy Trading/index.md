@@ -17,13 +17,13 @@ publication_types: ["thesis"]
 publication: ""
 publication_short: ""
 <div style="text-align: justify;">
-abstract: 'The energy sector is undergoing a massive transformation that includes key aspects such as integrating renewables, improving operational efficiency, leveraging smart grid infrastructure, and handling the dynamics of transactive energy. Digitization of electricity value chain and increased integration of distributed energy resources are turning passive consumers into active consumers who can locally sell their electricity, called Prosumers. The Peer to Peer (P2P) energy trading is a new paradigm, which introduces flexibility among the electricity users, where the energy from renewables and battery storage is shared and traded locally. 
+abstract: The energy sector is undergoing a massive transformation that includes key aspects such as integrating renewables, improving operational efficiency, leveraging smart grid infrastructure, and handling the dynamics of transactive energy. Digitization of electricity value chain and increased integration of distributed energy resources are turning passive consumers into active consumers who can locally sell their electricity, called Prosumers. The Peer to Peer (P2P) energy trading is a new paradigm, which introduces flexibility among the electricity users, where the energy from renewables and battery storage is shared and traded locally. 
 This thesis contributes to the realisation of the hardware and software platform for P2P energy trading testbed at IIT Gandhinagar. This setup comprises two
 prosumers (Peer A and Peer B) and a consumer (Peer C). Peer A has solar PV, and battery energy storage system, whereas Peer B has an EV charging with a
 vehicle to grid (V2G) capability. These peers have almost equal load demand to meet. The energy meters connected at the respective nodes are integrated with
 a smart agent to log the energy data at the regular interval. A smart agent runs the forecasting module followed by an optimization algorithm to optimally
 schedule the dispatchable resources at the respective peers. This setup has been seamlessly interfaced with Blockchain based digital platform for showcasing
-the P2P energy trading application in a real world environment.'
+the P2P energy trading application in a real world environment.
 </div>
 
 tags:
