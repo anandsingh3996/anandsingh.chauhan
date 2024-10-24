@@ -18,31 +18,28 @@ publication: ""
 publication_short: ""
 
 abstract: 'The energy sector is undergoing a massive transformation that includes key aspects such as integrating renewables, improving operational efficiency, leveraging smart grid infrastructure, and handling the dynamics of transactive energy. Digitization of electricity value chain and increased integration of distributed energy resources are turning passive consumers into active consumers who can locally sell their electricity, called Prosumers. The Peer to Peer (P2P) energy trading is a new paradigm, which introduces flexibility among the electricity users, where the energy from renewables and battery storage is shared and traded locally. 
-We developed proof of concept (PoC) and test rig at IIT Gandhinagar to demonstrate the real-world application of demand side energy management programs – Peer-to-Peer (P2P) energy sharing & further pilot project demonstration at electricity distribution company. We developed SMART AGENT: A Universal IoT-based Smart Energy Management Device – enables electricity consumers to participate in wide range of demand-side management programs – P2P energy trading, DR, etc. The Smart Agent monitors and optimizes energy usage for all flexible energy assets, making it a great fit for managing energy demands, including P2P energy trading and Demand Response programs.'
+This thesis contributes to the realisation of the hardware and software platform for P2P energy trading testbed at IIT Gandhinagar. This setup comprises two
+prosumers (Peer A and Peer B) and a consumer (Peer C). Peer A has solar PV, and battery energy storage system, whereas Peer B has an EV charging with a
+vehicle to grid (V2G) capability. These peers have almost equal load demand to meet. The energy meters connected at the respective nodes are integrated with
+a smart agent to log the energy data at the regular interval. A smart agent runs the forecasting module followed by an optimization algorithm to optimally
+schedule the dispatchable resources at the respective peers. This setup has been seamlessly interfaced with Blockchain based digital platform for showcasing
+the P2P energy trading application in a real world environment.'
 
 tags:
-- Source Themes
 featured: false
 
 links:
 - name: Custom Link
   url: https://naran.people.iitgn.ac.in/newsite/research/
 url_pdf: https://drive.google.com/file/d/1pGEHN_d8zhHomtTan0XjagnyFOgVXN1d/view?usp=sharing
-url_project: ''
+url_project: 'https://naran.people.iitgn.ac.in/newsite/research/'
 url_slides: 'https://drive.google.com/file/d/1ttwjwgFv9_P2HgD6hVhvxKhvMRSbJBBY/view?usp=sharing'
-url_source: '#'
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
 - internal-project
 
