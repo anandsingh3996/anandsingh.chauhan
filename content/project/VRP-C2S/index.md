@@ -1,5 +1,11 @@
 ---
 title: Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce
+date: "2023-12-05T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2023-12-05T00:00:00Z"
+
 tags:
   - E-Commerce
   - Supply Chain
