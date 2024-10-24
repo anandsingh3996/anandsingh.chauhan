@@ -63,11 +63,9 @@ education:
 
       Our innovation, SMART AGENT, received the <em>India Smart Grid Forum (ISGF) Innovation Awards 2023 – Platinum Award</em> in the 'Smart Technology – Electricity Distribution' category.
 
-      Furthermore, I was awarded the <em>POSOCO Power System Awards (PPSA-2021)</em> for my Master’s thesis.
+      Furthermore, I was awarded the <em>POSOCO Power System Awards (PPSA-2021)</em> for my Master’s thesis, as one of the fifteen recipients in India.
 
-      My Master’s work resulted in:
-      - Two publications.
-      - One patent filing.
+      My Master’s work resulted in two publications and one patent filing.
       </p>
 
 
