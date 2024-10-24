@@ -1,5 +1,11 @@
 ---
 title: Data-Driven Control and Management of Power Networks
+date: "2023-02-07T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2023-02-07T00:00:00Z"
+
 tags:
   - Reinforcement Learning
   - Topological Reconfigurations
