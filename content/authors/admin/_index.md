@@ -48,17 +48,28 @@ education:
     date_start: 2018-07-24
     date_end: 2020-08-24
     summary: |
+      <p align="justify">
       CPI: 9.43/10.0
 
-      During my time as part of a Department of Science and Technology (DST-India) project, titled *Development of a Prosumer Driven Integrated Smart Grid*, I helped develop a proof of concept (PoC) and test rig at IIT Gandhinagar. This work demonstrated real-world applications of demand-side energy management programs, including Peer-to-Peer (P2P) energy sharing, and was showcased in a pilot project with an electricity distribution company.
+      During my time as part of a Department of Science and Technology (DST-India) project, titled <em>Development of a Prosumer Driven Integrated Smart Grid</em>, I contributed to the following:
 
-      Our team also developed SMART AGENT, a universal IoT-based Smart Energy Management Device, allowing consumers to participate in a variety of demand-side management programs such as P2P energy trading and Demand Response (DR). The Smart Agent optimizes energy usage for flexible assets, enhancing energy management strategies.
+      - Developed a proof of concept (PoC) and test rig at IIT Gandhinagar, demonstrating real-world applications of demand-side energy management programs like Peer-to-Peer (P2P) energy sharing.
+      - Showcased this work through a pilot project with an electricity distribution company.
 
-      Our technological innovation, SMART AGENT, earned the *India Smart Grid Forum (ISGF) Innovation Awards 2023 – Platinum Award* in the 'Smart Technology – Electricity Distribution' category.
+      In addition, we developed <strong>SMART AGENT</strong>, a universal IoT-based Smart Energy Management Device that enables:
 
-      In addition, I was awarded the *POSOCO Power System Awards (PPSA-2021)* for my Master’s thesis.
+      - Participation in various demand-side management programs such as P2P energy trading and Demand Response (DR).
+      - Optimized energy usage for flexible energy assets, enhancing energy management strategies.
 
-      My Master’s work resulted in two publications and one patent filing.
+      Our innovation, SMART AGENT, received the <em>India Smart Grid Forum (ISGF) Innovation Awards 2023 – Platinum Award</em> in the 'Smart Technology – Electricity Distribution' category.
+
+      Furthermore, I was awarded the <em>POSOCO Power System Awards (PPSA-2021)</em> for my Master’s thesis.
+
+      My Master’s work resulted in:
+      - Two publications.
+      - One patent filing.
+      </p>
+
 
   - area: B.E. in Electrical Engineering
     institution: L.D. College of Engineering
