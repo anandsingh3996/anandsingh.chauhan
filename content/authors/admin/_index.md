@@ -87,14 +87,20 @@ work:
       <p align="justify">
       Responsibilities and key contributions include:
       - Leading research initiatives under the guidance of Dr. Mayank Baranwal in the Data and Decision Sciences research wing.
+        
       - Spearheading the application of reinforcement learning (RL) to complex real-world problems in planning under uncertainty, with a focus on:
+        
         * Data-driven power control and management systems.
         * Optimization of supply chain networks.
         * Advanced railway scheduling solutions using large language models (LLMs) for reasoning.
         * Mixed-Fleet Vehicle Routing Problem with Time Windows (CVRPTW) using attention mechanisms.
+    
       - Pioneering work on mixed-fleet routing, combining traditional and electric vehicles for optimized logistics.
+        
       - Exploring innovative applications of attention models to solve vehicle routing with time windows (VRPTW).
+        
       - Investigating the synergy between large language models (LLMs) and reinforcement learning (RL) to improve RL agent reward mechanisms, particularly in the context of effective train scheduling and network management.
+        
       - Contributing to the development of robust and adaptive algorithms for networked systems, enhancing efficiency and reliability in critical infrastructure.
       </p>
   - position: Adjunct Faculty, Bachelor of Data Science
