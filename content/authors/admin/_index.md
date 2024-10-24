@@ -83,26 +83,32 @@ work:
     company_logo: ''
     date_start: 2020-09-07
     date_end: ''
-    summary: |2-
+    summary: |
+      <p align="justify">
       Responsibilities and key contributions include:
-      - Leading research initiatives under the guidance of Dr. Mayank Baranwal and Dr. Harshad Khadilkar
-      - Spearheading the application of reinforcement learning (RL) to complex real-world problems under uncertainty, with a focus on:
-        * Data-driven power control and management systems
-        * Optimization of supply chain networks
-        * Advanced railway scheduling solutions
-      - Pioneering work on mixed-fleet routing problems, combining traditional and electric vehicles for optimized logistics
-      - Exploring innovative applications of attention models to vehicle routing with time windows
-      - Investigating the synergy between large language models (LLMs) and RL to enhance RL agent rewards, particularly for effective train scheduling and network management
-      - Contributing to the development of robust and adaptive algorithms for networked systems, improving efficiency and reliability in critical infrastructure
-  - position: Guest Faculty, Bachelor of Data Science 
-    company_name: S.P. Jain School of Global Management 
-    company_url: 'https://www.spjain.org/bachelor-of-data-science?utm_source=google&utm_medium=ppc&utm_campaign=BDS-IN-Search-North+East+Sept%2724&cmpid=1022653904&adgroupid=159455524010&Placement=&Keyword=sp%20jain%20global%20data%20science&utm_source=Google&utm_medium=ppc&utm_term=sp%20jain%20global%20data%20science&utm_campaign=BDS+%7C+Search+%7C+ROI&hsa_tgt=kwd-2318669131560&hsa_grp=159455524010&hsa_src=g&hsa_net=adwords&hsa_mt=p&hsa_ver=3&hsa_ad=704915757005&hsa_acc=3621059712&hsa_kw=sp%20jain%20global%20data%20science&hsa_cam=1022653904&gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7Dotk5PUwFyZbjvBELUwS0rAf4YgBRaYmFdVZIbkxiqIbwmz0dUAz7gaAltzEALw_wcB'
+      - Leading research initiatives under the guidance of Dr. Mayank Baranwal in the Data and Decision Sciences research wing.
+      - Spearheading the application of reinforcement learning (RL) to complex real-world problems in planning under uncertainty, with a focus on:
+        * Data-driven power control and management systems.
+        * Optimization of supply chain networks.
+        * Advanced railway scheduling solutions using large language models (LLMs) for reasoning.
+        * Mixed-Fleet Vehicle Routing Problem with Time Windows (CVRPTW) using attention mechanisms.
+      - Pioneering work on mixed-fleet routing, combining traditional and electric vehicles for optimized logistics.
+      - Exploring innovative applications of attention models to solve vehicle routing with time windows (VRPTW).
+      - Investigating the synergy between large language models (LLMs) and reinforcement learning (RL) to improve RL agent reward mechanisms, particularly in the context of effective train scheduling and network management.
+      - Contributing to the development of robust and adaptive algorithms for networked systems, enhancing efficiency and reliability in critical infrastructure.
+      </p>
+  - position: Adjunct Faculty, Bachelor of Data Science
+    company_name: S.P. Jain School of Global Management
+    company_url: 'https://www.spjain.org/bachelor-of-data-science'
     company_logo: ''
     date_start: 2024-01-27
     summary: |
-      Teaching Responsibilities include following courses:
-      - Introduction to Programming 
+      <p align="justify">
+      Teaching responsibilities include courses for first-year undergraduate students:
+      - Introduction to Programming
       - Introduction to Data Science
+      </p>
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
