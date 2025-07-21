@@ -188,7 +188,7 @@ awards:
 
 <div style="text-align: justify";justify; margin-top: 0; padding-top: 0;>
 
-I am a Researcher in the Decision Sciences Research Area at TCS Research, driven by a deep passion for leveraging machine learning and operational research to address complex, real-world challenges. My core expertise lies in reinforcement learning and machine learning, with a focus on its practical applications in networked systems.
+I am working as a Scientist in the Decision Sciences Research Area at TCS Research, driven by a deep passion for leveraging machine learning and operational research to address complex, real-world challenges. My core expertise lies in reinforcement learning and machine learning, with a focus on its practical applications in networked systems.
 
 My academic journey includes an M.Tech. in Electrical Engineering from IIT Gandhinagar, where I contributed to the Department of Science and Technology (DST India) Project on the "Development of a Prosumer Driven Integrated Smart Grid." During my time at IITGN, I played a key role in developing India's first peer-to-peer energy trading test rig, a blockchain-enabled testbed (April 2020), in collaboration with IIMA, BESS Yamuna, and Rajdhani Power. This pioneering project, completed in June 2020 under the supervision of Dr. Naran Pindoriya, led to two publications and one patent filing. My contributions were recognized with prestigious awards, including the M.Tech. Grid-India Power Systems Award and the Platinum award from the India Smart Grid Forum (ISGF) in 2023.
 
