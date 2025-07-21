@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher, Data & Decisions Sciences
+role: Scientist, Data & Decisions Sciences
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
