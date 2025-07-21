@@ -77,12 +77,35 @@ education:
       CPI: 9.05/10.0
       
 work:
+  - position: Scientist, Data and Decision Sciences Research Area
+    company_name: TCS Research - Mumbai
+    company_url: 'https://www.tcs.com/what-we-do/research'
+    company_logo: ''
+    date_start: 2025-04-30
+    date_end: ''
+    summary: |
+      <p align="justify">
+      Responsibilities and key contributions include:
+      - Leading research projects in the Data and Decision Sciences research wing under the mentorship of Dr. Mayank Baranwal.
+        
+      - Focusing on real-world applications of Reinforcement Learning (RL) and Generative AI to tackle complex planning challenges under uncertainty. Key areas include:
+
+        - Mixed-Fleet Vehicle Routing Problem with Time Windows (CVRPTW), utilizing attention mechanisms for improved logistics.
+        - PRIORITY-Q: Optimizing railway schedules with speed, safety, and interpretability
+    
+      - Currently working on the Mixed-Fleet Vehicle Routing Problem with Time Windows, integrating traditional and electric vehicles to optimize fleet operations amid rising EV adoption. This involves exploring attention-based models to enhance routing solutions.
+                
+      - Investigating the integration of Large Language Models with Reinforcement Learning to improve reward mechanisms in train scheduling, aiming to reduce computational complexity and assist control room operators in efficient decision-making.
+        
+      - Contributing to the development of robust, adaptive algorithms for networked systems, enhancing efficiency and reliability across critical infrastructure domains.
+      </p>
+
   - position: Researcher, Data and Decision Sciences Research Area
     company_name: TCS Research - Mumbai
     company_url: 'https://www.tcs.com/what-we-do/research'
     company_logo: ''
     date_start: 2020-09-07
-    date_end: ''
+    date_end: 2025-04-30
     summary: |
       <p align="justify">
       Responsibilities and key contributions include:
